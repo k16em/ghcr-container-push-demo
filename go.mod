@@ -1,4 +1,4 @@
-module github.com/kei-s16/ghcr-container-push-demo/hello
+module github.com/k16em/ghcr-container-push-demo/hello
 
 go 1.21.6
 
